@@ -1,0 +1,24 @@
+.box{
+    /* background-color: pink; */
+    background-image: url(../img/large.58f1bdeda1c5c_.jpg.91c33c120ad86a4dbf2c50dd44d00890.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(255, 0, 111);
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.for_box{
+    display: flex;
+    gap:20px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
